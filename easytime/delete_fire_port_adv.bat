@@ -1,0 +1,1 @@
+netsh advfirewall firewall delete rule name="BioTime" protocol=tcp localport=80

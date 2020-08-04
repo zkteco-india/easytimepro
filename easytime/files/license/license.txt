@@ -1,0 +1,4 @@
+id=76,custom=76,m_devices=2,mods=base:adms:personnel:iclock:att:payroll:staff:acc,pushkey=0,company=trial,ecount=1000,app=500,whatsapp=500,upk=,time=,c_day=,m_days=90,verify=abL/xUyncg2xd2UCj1HfWD7CZejA7gCpz9qoUPsp88FcmO3Fs6teBxhQizEyS8CLTJrVXDLv1QLV
+tx8Q/AmiheqKI2YNbGrxEjAs6+y0+/VFPK4jmQC6uYw5wxEtU2eJj+B/Y05kiePce/8IuswSSubY
+2Hv6Kq6g9kT4fIlUxEUvvFE4PqTa8MLg4GtluhIi41n+zfd+LSvOXvtuNlL3QbxO0oJyiw==
+

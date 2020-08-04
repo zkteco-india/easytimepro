@@ -1,0 +1,1 @@
+netsh firewall delete portopening protocol = TCP port =80

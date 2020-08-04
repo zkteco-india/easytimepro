@@ -1,0 +1,159 @@
+easy TimePro(Standard Version)
+
+
+8.5.4 Jul 31,2020
+
+1 Fix tempature issue when tempature detector only
+2 Add Card Count,User Photo Count,AttPhotoCount (need to upgrade push library)
+
+8.5.3 Jul 27,2020
+
+1 Fix sync not happening issue after employee imported again(second import)
+2 Fix sync not happening issue after editing user photo in device
+3 Fix Face sync wrong sometimes after editing face in device because  cache not update  
+4 Fix Face cant sync to device sometimes(for ex.UFace402,because some parameters None)
+5 Fix Device State display issue
+6 Fix message not sent issue after punch via sms,whatsapp and so on
+
+
+8.5.2 Jul 14,2020
+
+1 jquery upgraded from 2.2.4 to 3.5.1 for some security issue
+2 Fixed the problem of automatic synchronization after importing employee
+3 Fixed other  automatic synchronization
+4 Fixed dashboard display issue
+5 Optimized device communication, speed increased by 4 times
+6 Functions added to support palm device
+7 Changed some transalations
+8 Add whatsapp address in attsite.ini (WHATSAPP_API_URL=https://panel.rapiwha.com/send_message.php)
+
+
+8.5.1 Jun 24,2020
+
+1   django from 1.11.20 to 1.11.29
+2   apache from 2.4.39 to 2.4.43
+3   Support more access devices(Ex. V5L)
+4   Fix Area Code displaying wrong in System Log for the device MB360
+5   Fix Only first Public message is getting displayed on the Home screen while user sending multiple Public messages Error
+6   Fix Unsupported format is displayed when user uploaded the Company logo in Company Settings.
+7   Fix Successful Message is getting displayed when the user Import the TXT Export File for "Resign and Employee Document"
+8   Fix User is unable to clear one employee photo after uploading multiple bio-photos 
+9   Fix Employee names are not getting displayed when the user selects any employees in Report 
+10 Fix Company Logo is getting overlapped with company name when the user does Excel export
+11 Fix Map is not displaying in the exact location when the user clicks on the Map View 
+12 Fix Area filter is not generating report when user clicks on particular Area check box. 
+13 Fix Country, State and City is not getting updated after we set the map in Company Information
+14 Fix Bio-Photo is getting Approved automatically when user uploaded the photo in Employee details.
+15 Fix Excel & PDF Export Reports are not getting generated in Birthday for Employee wise and Date wise export style
+
+
+8.5.0 May 29,2020
+
+1.  Add Access Module
+2.  Add Masked Face/Fever  Detection
+3.  Add TD/MD Reports
+4.  Add Dashboard for Pandemic
+5.  Add Reimbusrement
+6.  Fix workflow role tree display issue
+7.  Fix area tree display issue
+8.  Fix dashboard display issue when using oracle
+9. Fix keyError when exporting excel if no data is there
+10. Fix keyError when selecting employee wise or department wise
+11. Redis update to 5.0.9 64bit
+
+
+8.4.1 Apr 20,2020
+
+1.Fix communication issue
+2.Fix Mutiple transaction report issue
+3.Fix Attendance Summary report issue
+4.Fix Attendance Status report issue
+5.Fix payroll  salary structure
+
+
+8.4.0 Apr 07,2020
+
+1.Add Reports:
+   Daily Attendance Report
+   Daily Details Report
+   Daily Summary Report
+   Daily Status Report
+   Monthly Basic Status Report
+   Monthly Status Summary Report
+   Monthly OT Summary Report
+   Monthly Work Duration Report
+   Monthly Work Detailed Report
+   Monthly Att Sheet Summary Report
+   Yearly Summary Report
+   Continuous Abnormal Report
+
+2.Support shift weekend
+3.Update location tree display
+4.Optimize SQL statements
+5.Update report export format
+6.Add company_id field and unique index  for personnel_employee and iclock_transaction to void duplicate data
+  (If duplicate data exists in the old database,you can run the following command under software folder.
+   python manage.py update_repeate_emp_code  )
+7.Fixed 10+bugs
+
+
+8.3.1 Feb 24,2020
+
+1.Fixed Attendance->Configration menu not display issue when resolution is much smaller
+2.Fixed restore issue
+3.Adjust manual log  leave overtime form display much better
+4.Fixed 10+bugs
+
+8.3.0 Feb 12,2020
+
+1.Fixed caculation issue
+2.Fixed report bugs
+3.Fixed New Users are unable to edit to change Enable
+4.dashboard changed
+
+
+8.2.1 Jan 28,2020
+
+Fixed Schedule View issue
+Fixed attdence report issue
+
+
+8.2.0 Jan 07,2020
+
+New Functions:- 
+
+1. OutDoor Management
+2. Leave Management 
+3. Half Day Settings
+4. Location
+5. Admin password Change Email Alert
+6. Birthday Report
+
+Major Bugs Fixed:-
+1. GlobalRule issue
+2. FingerPrint Registered issue with device
+3. Transaction Report & Schedule Report Issue
+4. "500 Internal Server Error" issue after installing the new package
+5. User Modified Old Password To New Password
+6. Importing .xlsx format
+7. Bio photo is not getting dispalyed in Transaction
+8. Alert settings issues are working according to Frequency
+9. Backup Automatically/Manually in Database
+10.device communication
+11.fixed usb data upload
+12.fixed tranaction Report show error
+
+8.0.2 Oct 26, 2019
+
+1.Fixed dashboard display error
+2.Fixed workflow form error
+3.Fixed device communcation with sql server
+4.Fixed Scheduled tasks do not run
+
+8.0.1 Sep 1,2019
+
+
+
+
+
+

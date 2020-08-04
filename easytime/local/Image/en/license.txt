@@ -1,0 +1,63 @@
+END-USER LICENSE AGREEMENT FOR THIS SOFTWARE
+
+Last Updated: Aug 08, 2019
+Please read this End-User License Agreement carefully before clicking the "Agree" button, downloading or using the SOFTWARE PRODUCT.
+
+This Agreement is a legal agreement between you (either an individual or a single entity) and the Author of this software for the SOFTWARE PRODUCT identified above, which includes computer software, mobile application, and may include associated media, printed materials, and online or electronic documentation.
+
+By clicking the "Agree" button, downloading, copying, or using the SOFTWARE PRODUCT, you are agreeing to be bound by the terms and conditions of this Agreement. If you do not agree to the terms of this Agreement, do not click on the "Agree" button and do not download or use the SOFTWARE PRODUCT.
+
+The SOFTWARE PRODUCT is licensed, not sold, to you by the Author of the software for use strictly in accordance with the terms of this Agreement. The SOFTWARE PRODUCT is protected by copyright laws.
+
+LICENSE
+The Author of the software grants you a revocable, non-exclusive, and non-transferable license,  install and use of the SOFTWARE PRODUCT solely for your company use. You may install and use an unlimited number of copies of the SOFTWARE PRODUCT.
+
+You may reproduce and distribute an unlimited number of copies of the SOFTWARE PRODUCT; provided that each copy shall be a true and complete copy, including all copyright and trademark notices, and shall be accompanied by a copy of this EULA.
+
+DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the BIOTIME, except and only to the 
+extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+Separation of Components.
+The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated for use on more than one computer.
+
+Term and Termination.
+This Agreement shall remain in effect until terminated by you or the Author of the software. The Author of the software may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
+
+This Agreement will terminate immediately, without prior notice from the Author of the software, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the SOFTWARE PRODUCT and all copies thereof from your mobile device or from your computer.
+
+Upon termination of this Agreement, you shall cease all use of the SOFTWARE PRODUCT and delete all copies of the software from your mobile device or from your computer.
+
+Termination of this Agreement will not limit any of the Author's rights or remedies at law or in equity in case of breach by you (during the term of this Agreement) of any of your obligations under the present Agreement.
+
+COPYRIGHT
+All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, animations,video, audio, music, text, and "applets" incorporated into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies of the SOFTWARE PRODUCT are owned by the Author of the software. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material except that you may install the SOFTWARE PRODUCT on a single computer provided you keep the original solely for backup or archival purposes.
+
+LIMITED WARRANTY
+
+NO WARRANTIES.
+The Author of this Software expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT and any related documentation is provided "as is" without warranty of any kind,either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or noninfringement. The entire risk arising out of use or performance of the SOFTWARE PRODUCT remains with you.
+
+NO LIABILITY FOR DAMAGES.
+In no event shall the author of this SOFTWARE PRODUCT be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product, even if ZKTeco has been advised of the possibility of such damages.
+
+CONTACT INFORMATION
+If you have any questions about this Agreement, please contact us.
+
+ENTIRE AGREEMENT
+The Agreement constitutes the entire agreement between you and the Author of the software regarding your use of the SOFTWARE PRODUCT and supersedes all prior and contemporaneous written or oral agreements between you and the Author of the software.
+
+You may be subject to additional terms and conditions that apply when you use or purchase other SOFTWARE PRODUCT's services, which the Author of the software will provide to you at the time of such use or purchase.
+
+Acknowledgment of Agreement.
+
+I have carefully read and understand this Agreement.
+
+IF YOU ACCEPT the terms of this Agreement:
+
+I acknowledge and understand that by ACCEPTING the terms of this Agreement.
+
+IF YOU DO NOT ACCEPT the terms of this Agreement.
+
+I acknowledge and understand that by refusing to accept these terms, I have rejected this license agreement and therefore have no legal right to install, use, or copy this Product or the Licensed Software that it incorporates.
+

@@ -1,0 +1,61 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=cn, ST=fj, L=xm, O=zkteco, OU=pro, CN=127.0.0.1/emailAddress=xinyan.huang@zkteco.com
+        Validity
+            Not Before: Feb 16 05:33:48 2019 GMT
+            Not After : Feb 16 05:33:48 2020 GMT
+        Subject: C=cn, ST=fj, O=zkteco, OU=pro, CN=127.0.0.1/emailAddress=xinyan.huang@zkteco.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d5:23:1a:06:f8:45:5c:92:90:15:16:de:f1:3b:
+                    66:e6:f9:2f:f4:33:a6:dd:97:f7:3c:24:5d:10:1a:
+                    a5:d0:93:8a:19:27:13:37:23:df:db:62:45:91:1a:
+                    c2:e2:19:4b:5e:13:3b:f4:3a:bf:c7:6f:2a:cb:85:
+                    7b:d5:0a:88:8e:a7:ad:1b:5a:cb:7f:94:ec:89:f2:
+                    d2:ed:da:b5:c5:ad:77:30:81:5d:09:10:5a:78:45:
+                    9e:48:26:b4:14:8a:4f:c6:e6:f5:8e:11:78:3b:2a:
+                    c5:89:25:ec:f1:e0:29:6b:71:1e:e2:24:52:51:f1:
+                    db:9a:fe:f0:7c:79:a1:70:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                89:93:CC:CD:FB:54:45:53:F4:80:5D:F9:78:0F:A9:46:F9:5C:1C:DA
+            X509v3 Authority Key Identifier: 
+                keyid:B3:84:79:D6:74:44:9F:C6:18:CC:C1:DB:97:0C:7F:39:D7:AE:D5:D7
+
+    Signature Algorithm: sha256WithRSAEncryption
+         43:10:c7:ea:c7:4b:63:46:b2:ef:cf:87:71:68:b8:13:33:4e:
+         46:38:db:a5:f6:dc:12:60:81:2d:f1:e7:fe:8f:5b:c2:09:57:
+         0d:fb:ff:79:3b:3d:31:99:10:43:63:ff:a7:85:58:d1:6b:aa:
+         74:12:68:99:2b:03:65:f8:14:8a:ce:2f:b4:68:6c:7c:35:e6:
+         df:cd:e4:c9:41:b8:8f:75:ed:2e:87:e2:0c:52:0c:db:77:1e:
+         08:f0:7b:84:18:89:29:c1:4a:fc:36:97:fb:39:f4:be:a9:16:
+         6c:00:f5:fa:92:91:e6:83:a2:03:c7:05:3a:2e:d9:f8:67:a7:
+         c5:73
+-----BEGIN CERTIFICATE-----
+MIIC6TCCAlKgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBgjELMAkGA1UEBhMCY24x
+CzAJBgNVBAgMAmZqMQswCQYDVQQHDAJ4bTEPMA0GA1UECgwGemt0ZWNvMQwwCgYD
+VQQLDANwcm8xEjAQBgNVBAMMCTEyNy4wLjAuMTEmMCQGCSqGSIb3DQEJARYXeGlu
+eWFuLmh1YW5nQHprdGVjby5jb20wHhcNMTkwMjE2MDUzMzQ4WhcNMjAwMjE2MDUz
+MzQ4WjB1MQswCQYDVQQGEwJjbjELMAkGA1UECAwCZmoxDzANBgNVBAoMBnprdGVj
+bzEMMAoGA1UECwwDcHJvMRIwEAYDVQQDDAkxMjcuMC4wLjExJjAkBgkqhkiG9w0B
+CQEWF3hpbnlhbi5odWFuZ0B6a3RlY28uY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GN
+ADCBiQKBgQDVIxoG+EVckpAVFt7xO2bm+S/0M6bdl/c8JF0QGqXQk4oZJxM3I9/b
+YkWRGsLiGUteEzv0Or/HbyrLhXvVCoiOp60bWst/lOyJ8tLt2rXFrXcwgV0JEFp4
+RZ5IJrQUik/G5vWOEXg7KsWJJezx4ClrcR7iJFJR8dua/vB8eaFwoQIDAQABo3sw
+eTAJBgNVHRMEAjAAMCwGCWCGSAGG+EIBDQQfFh1PcGVuU1NMIEdlbmVyYXRlZCBD
+ZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUiZPMzftURVP0gF35eA+pRvlcHNowHwYDVR0j
+BBgwFoAUs4R51nREn8YYzMHblwx/Odeu1dcwDQYJKoZIhvcNAQELBQADgYEAQxDH
+6sdLY0ay78+HcWi4EzNORjjbpfbcEmCBLfHn/o9bwglXDfv/eTs9MZkQQ2P/p4VY
+0WuqdBJomSsDZfgUis4vtGhsfDXm383kyUG4j3XtLofiDFIM23ceCPB7hBiJKcFK
+/DaX+zn0vqkWbAD1+pKR5oOiA8cFOi7Z+GenxXM=
+-----END CERTIFICATE-----

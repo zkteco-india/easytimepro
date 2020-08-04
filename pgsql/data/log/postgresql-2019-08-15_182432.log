@@ -1,0 +1,7 @@
+2019-08-15 18:24:32.128 HKT [3024] LOG:  database system was shut down at 2019-08-15 18:24:26 HKT
+2019-08-15 18:24:32.144 HKT [4072] LOG:  database system is ready to accept connections
+2019-08-15 18:26:27.437 HKT [4072] LOG:  received fast shutdown request
+2019-08-15 18:26:27.453 HKT [4072] LOG:  aborting any active transactions
+2019-08-15 18:26:27.453 HKT [4072] LOG:  worker process: logical replication launcher (PID 1448) exited with exit code 1
+2019-08-15 18:26:27.453 HKT [2108] LOG:  shutting down
+2019-08-15 18:26:27.469 HKT [4072] LOG:  database system is shut down
