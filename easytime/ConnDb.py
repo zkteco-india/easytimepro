@@ -34,7 +34,7 @@ def conn_db():
         t1=time.time()
         cursor = connection.cursor()
         t=(time.time()-t1)*1000
-        s = "connection is successful,time=%dms"%t
+        s = "connection is successful"
         tables = connection.introspection.table_names(cursor)
         if len(tables) < 5:
             s='%s,No tables'%(s)
