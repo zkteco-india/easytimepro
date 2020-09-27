@@ -12,7 +12,6 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
 from django.db import connection
 from django.conf import settings
 #from mysite.utils import saveToFile
-
 def saveToFile(text, fn=None, append=True, ctlsize=False):
     """/files/conn_logs.zk dont rename or change,this file is used by bioCat to check result"""
     if not fn:
@@ -30,19 +29,22 @@ def conn_db():
     LMAC = uuid.uuid1().hex[-12:].lower()
     print("mac=%s" % LMAC)
     s = ''
+    import time
     try:
+        t1=time.time()
         cursor = connection.cursor()
-        s = "connect successfully"
+        t=(time.time()-t1)*1000
+        s = "connection is successful,time=%dms"%t
         tables = connection.introspection.table_names(cursor)
-        if len(tables) > 30:
-            s='%s,Table is ok'%(s)
-        else:
+        if len(tables) < 5:
             s='%s,No tables'%(s)
 
     except Exception as e:
         s = '%s' % e
 
-        s = "connect failed:" + s
+        s = "connection failed:" + s
+
+    s = '%s %s'%(settings.DATABASE_ENGINE,s)
     print(s)
     saveToFile(s)
 
@@ -52,7 +54,7 @@ def check_db():
     try:
         with connection.cursor() as cursor:
             tables = connection.introspection.table_names(cursor)
-            if len(tables) > 30:
+            if len(tables) > 50:
                 s = 'create tables successfully'
             else:
                 s = 'create tables failed:'
