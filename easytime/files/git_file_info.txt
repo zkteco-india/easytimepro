@@ -1,0 +1,302 @@
+[
+    {
+        "name": "ConnDb.py",
+        "path": "easytime/ConnDb.py",
+        "sha": "dd14c2d24eb0be9b5971061ee3e384427be8e51a",
+        "type": "file"
+    },
+    {
+        "name": "cloud.py",
+        "path": "easytime/cloud.py",
+        "sha": "dadf0264474c8780cce065d127f5e91cb6a603e1",
+        "type": "file"
+    },
+    {
+        "name": "delete_fire_port.bat",
+        "path": "easytime/delete_fire_port.bat",
+        "sha": "f8b998368ff09ed9e67652195859b86d02a8b8bd",
+        "type": "file"
+    },
+    {
+        "name": "delete_fire_port_adv.bat",
+        "path": "easytime/delete_fire_port_adv.bat",
+        "sha": "a5878047d180a2fabfed4a14c89118ff11d497b3",
+        "type": "file"
+    },
+    {
+        "name": "django.wsgi",
+        "path": "easytime/django.wsgi",
+        "sha": "e4c9107e676d227a7559e6b28506b8038c3b0b9e",
+        "type": "file"
+    },
+    {
+        "name": "iclockservice.ini",
+        "path": "easytime/iclockservice.ini",
+        "sha": "fcd7395e86fe6101eb0ad1a20e7248429547dc28",
+        "type": "file"
+    },
+    {
+        "name": "init.bat",
+        "path": "easytime/init.bat",
+        "sha": "f9d91c9fd770f4263b93794fe7a93bcce8c9b0bb",
+        "type": "file"
+    },
+    {
+        "name": "install.cmd",
+        "path": "easytime/install.cmd",
+        "sha": "81216f91c20cb192b3dbfe66a326a2ab4ed06352",
+        "type": "file"
+    },
+    {
+        "name": "install_memcached.cmd",
+        "path": "easytime/install_memcached.cmd",
+        "sha": "cf8eb16c7c1ba0fef22e519cb6753585f081ac1d",
+        "type": "file"
+    },
+    {
+        "name": "install_pgsql.bat",
+        "path": "easytime/install_pgsql.bat",
+        "sha": "fec5369bdbda8d148a1c8fde3d4e76a07fa5ead6",
+        "type": "file"
+    },
+    {
+        "name": "install_redis.cmd",
+        "path": "easytime/install_redis.cmd",
+        "sha": "b033b8498eb83936a703702919b9ffa843b3fa56",
+        "type": "file"
+    },
+    {
+        "name": "manage.py",
+        "path": "easytime/manage.py",
+        "sha": "b6f935580f36360895d6641c35fe0c040f383350",
+        "type": "file"
+    },
+    {
+        "name": "mysite.zip",
+        "path": "easytime/mysite.zip",
+        "sha": "d53efaa86c948447f28bf288a894123f9668843a",
+        "type": "file"
+    },
+    {
+        "name": "run-clear_cache.bat",
+        "path": "easytime/run-clear_cache.bat",
+        "sha": "d2131399d9264dfc4abeff68a2f82bf1fea5eb02",
+        "type": "file"
+    },
+    {
+        "name": "run-dev.cmd",
+        "path": "easytime/run-dev.cmd",
+        "sha": "b485722efa6d447365194a62f84a9dc55f08f6d2",
+        "type": "file"
+    },
+    {
+        "name": "run-syncdb.cmd",
+        "path": "easytime/run-syncdb.cmd",
+        "sha": "24a75f92004315b1d6c504939e35e47d4b552afa",
+        "type": "file"
+    },
+    {
+        "name": "shell.cmd",
+        "path": "easytime/shell.cmd",
+        "sha": "8da3e1211c3a163ce7fdf67b0256ac1008390546",
+        "type": "file"
+    },
+    {
+        "name": "sqlnet.ora",
+        "path": "easytime/sqlnet.ora",
+        "sha": "7114f8a7aab6f211276aacf52e83c4307f8bbc30",
+        "type": "file"
+    },
+    {
+        "name": "start.cmd",
+        "path": "easytime/start.cmd",
+        "sha": "fbc236f37e2a9bc193f94dc3aa68a6767cf25951",
+        "type": "file"
+    },
+    {
+        "name": "test_conn.bat",
+        "path": "easytime/test_conn.bat",
+        "sha": "e3da771ec355873e3c75d1bd835ffc8f9f72ba98",
+        "type": "file"
+    },
+    {
+        "name": "uninstall.cmd",
+        "path": "easytime/uninstall.cmd",
+        "sha": "95d5fee31b2b9fbf1fee7152f818157f7ed20076",
+        "type": "file"
+    },
+    {
+        "name": "uninstall_pgsql.bat",
+        "path": "easytime/uninstall_pgsql.bat",
+        "sha": "423a401337565c1372599db8603a9cc04abcc987",
+        "type": "file"
+    },
+    {
+        "name": "uninstallmysql.bat",
+        "path": "easytime/uninstallmysql.bat",
+        "sha": "54ede73691249fb408c7bdbc3635aee07f90f985",
+        "type": "file"
+    },
+    {
+        "name": "uninstallofupgrade.cmd",
+        "path": "easytime/uninstallofupgrade.cmd",
+        "sha": "91ec10326d1c170a5d3342dc49e0dd313b3e2a25",
+        "type": "file"
+    },
+    {
+        "name": "Crypto.zip",
+        "path": "python_support/Crypto.zip",
+        "sha": "fe16db60c7e4d08bd78d61319ea9206137e56b49",
+        "type": "file"
+    },
+    {
+        "name": "django.zip",
+        "path": "python_support/django.zip",
+        "sha": "0e6750eb8f51968449da4a45a26f71cc03d73ed3",
+        "type": "file"
+    },
+    {
+        "name": "lxml.zip",
+        "path": "python_support/lxml.zip",
+        "sha": "5937bc4ce9e697b1e9467d4b0472e305868d57cd",
+        "type": "file"
+    },
+    {
+        "name": "oracle.zip",
+        "path": "python_support/oracle.zip",
+        "sha": "8e723863c6981e7d5d7b3c9d7190139e648d7de1",
+        "type": "file"
+    },
+    {
+        "name": "site-packages.zip",
+        "path": "python_support/site-packages.zip",
+        "sha": "37870daaea80cc4e1042c58a6432e41831b1f4fe",
+        "type": "file"
+    },
+    {
+        "name": "tzwhere.zip",
+        "path": "python_support/tzwhere.zip",
+        "sha": "fd312989c78f94af83a082f01d0ac0b0037d67dc",
+        "type": "file"
+    },
+    {
+        "name": "__init__.py",
+        "path": "easytime/zkeco_dlls/__init__.py",
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "type": "file"
+    },
+    {
+        "name": "easy_upgrade.cp37-win_amd64.pyd",
+        "path": "easytime/zkeco_dlls/easy_upgrade.cp37-win_amd64.pyd",
+        "sha": "23365de828e9bdbffd99a17b93f634e2d4ef7c95",
+        "type": "file"
+    },
+    {
+        "name": "libgcc_s_sjlj-1.dll",
+        "path": "easytime/zkeco_dlls/libgcc_s_sjlj-1.dll",
+        "sha": "750394d0aee9f4753c799c42775964a5527fedd7",
+        "type": "file"
+    },
+    {
+        "name": "libgfortran-3.dll",
+        "path": "easytime/zkeco_dlls/libgfortran-3.dll",
+        "sha": "561599235d9018950d134b28f66bce265d958069",
+        "type": "file"
+    },
+    {
+        "name": "libopenblas.dll",
+        "path": "easytime/zkeco_dlls/libopenblas.dll",
+        "sha": "91478af15256dcfa448d5bc2a7ec8d594b0a958a",
+        "type": "file"
+    },
+    {
+        "name": "libquadmath-0.dll",
+        "path": "easytime/zkeco_dlls/libquadmath-0.dll",
+        "sha": "8e66c9c7f27d271a1fc2082edf05b72d549d2e67",
+        "type": "file"
+    },
+    {
+        "name": "plcommpro.dll",
+        "path": "easytime/zkeco_dlls/plcommpro.dll",
+        "sha": "2b52c95c39f1a5e5713a99846fa8206aaf6daeb9",
+        "type": "file"
+    },
+    {
+        "name": "plcomms.dll",
+        "path": "easytime/zkeco_dlls/plcomms.dll",
+        "sha": "49740203c4e61f6cfe1a4ea0fbc15f6090bd40f9",
+        "type": "file"
+    },
+    {
+        "name": "plrscagent.dll",
+        "path": "easytime/zkeco_dlls/plrscagent.dll",
+        "sha": "87ba96767e1c2a02578876d116c8e96e9e2fff2b",
+        "type": "file"
+    },
+    {
+        "name": "plrscomm.dll",
+        "path": "easytime/zkeco_dlls/plrscomm.dll",
+        "sha": "f5cfd0e737e0783d4aaaec130b49ba5c0c1e5226",
+        "type": "file"
+    },
+    {
+        "name": "pltcpcomm.dll",
+        "path": "easytime/zkeco_dlls/pltcpcomm.dll",
+        "sha": "edf698faf6866846d36debd545513d95de3ba7ee",
+        "type": "file"
+    },
+    {
+        "name": "plusbcomm.dll",
+        "path": "easytime/zkeco_dlls/plusbcomm.dll",
+        "sha": "360388d48b08ee5b56273500bb92e2de26bbef1f",
+        "type": "file"
+    },
+    {
+        "name": "simage.dll",
+        "path": "easytime/zkeco_dlls/simage.dll",
+        "sha": "f4c376be5f32a2f526c66ad490574efe65626b6c",
+        "type": "file"
+    },
+    {
+        "name": "wkhtmltopdf.exe",
+        "path": "easytime/zkeco_dlls/wkhtmltopdf.exe",
+        "sha": "22337569f5c40055da9fccaf35b3cced8c51a28b",
+        "type": "file"
+    },
+    {
+        "name": "zk_bot.dll",
+        "path": "easytime/zkeco_dlls/zk_bot.dll",
+        "sha": "f18fdd2ce09b63b2817c31892d06def06439b2f5",
+        "type": "file"
+    },
+    {
+        "name": "zk_call.dll",
+        "path": "easytime/zkeco_dlls/zk_call.dll",
+        "sha": "df196d20e690336bc67b0158d89dc60f01d460a4",
+        "type": "file"
+    },
+    {
+        "name": "zkcropface.dll",
+        "path": "easytime/zkeco_dlls/zkcropface.dll",
+        "sha": "2144fd90e3ed95e9091687289df8735a3f97c087",
+        "type": "file"
+    },
+    {
+        "name": "zkdnn_fd.bin",
+        "path": "easytime/zkeco_dlls/zkdnn_fd.bin",
+        "sha": "5da8162b044bf89830c4b434563e025253935d19",
+        "type": "file"
+    },
+    {
+        "name": "zkdnnapi.dll",
+        "path": "easytime/zkeco_dlls/zkdnnapi.dll",
+        "sha": "444f35dde8fb87bb32c07b1c5f0b8869ce56953b",
+        "type": "file"
+    },
+    {
+        "name": "zkipbase.dll",
+        "path": "easytime/zkeco_dlls/zkipbase.dll",
+        "sha": "6c6f61151b81b366f685b24b051ed212efb2b71a",
+        "type": "file"
+    }
+]
