@@ -1,4 +1,5 @@
 easy TimePro(Standard Version)
+(Support sqlserver2005/2008 sp1/2008R2/2012/2014/2017/2019,oracle11.2g and above,postgresql,mysql. SQLServer or oracle is recommended when devices>50）
 
 
 8.5.4 Jul 31,2020
