@@ -188,7 +188,7 @@
     {
         "name": "easy_upgrade.cp37-win_amd64.pyd",
         "path": "easytime/zkeco_dlls/easy_upgrade.cp37-win_amd64.pyd",
-        "sha": "23365de828e9bdbffd99a17b93f634e2d4ef7c95",
+        "sha": "5b378ac30db3e146e5161fbe797d09a515e865af",
         "type": "file"
     },
     {
