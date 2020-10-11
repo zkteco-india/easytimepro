@@ -1,11 +1,18 @@
 easy TimePro(Standard Version)
 (Support sqlserver2005/2008 sp1/2008R2/2012/2014/2017/2019,oracle11.2g and above,postgresql,mysql. SQLServer or oracle is recommended when devices>50）
 
+you can use install package or clicking upgrade button(in Platform Service Console Programe) to upgrade old version(only supporting easyTimePro/WDMS 8.2.0 or above) 
+Both upgrade solutions are safe,dont need to backup software,even if upgrade failed,database will not be destroyed.
 
-8.5.4 Jul 31,2020
+8.5.4 Oct 12,2020
 
-1 Fix tempature issue when tempature detector only
-2 Add Card Count,User Photo Count,AttPhotoCount (need to upgrade push library)
+1 Add Card Count,User Photo Count,AttPhotoCount column in device list (need to upgrade push library)
+2 Fix some filter issues
+3 Adjust some form size when adding data for display resolution
+4 Change 'sync data to device'  to real-time execution instead of task schedule,for clicking frequently make software slowly
+5 apache update to 2.4.46
+6 Add online upgrade function.in easyTimePro/WDMS platform Service Console,'upgrade' button is added.
+
 
 8.5.3 Jul 27,2020
 
