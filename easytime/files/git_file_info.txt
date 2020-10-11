@@ -2,7 +2,7 @@
     {
         "name": "ConnDb.py",
         "path": "easytime/ConnDb.py",
-        "sha": "dd14c2d24eb0be9b5971061ee3e384427be8e51a",
+        "sha": "fcccd1495baa9006fb4bb7bca2e547db35283036",
         "type": "file"
     },
     {
@@ -74,7 +74,7 @@
     {
         "name": "mysite.zip",
         "path": "easytime/mysite.zip",
-        "sha": "d53efaa86c948447f28bf288a894123f9668843a",
+        "sha": "1e8e2fd85344c690499c1ff03922917c8b0a7bdb",
         "type": "file"
     },
     {
@@ -188,7 +188,7 @@
     {
         "name": "easy_upgrade.cp37-win_amd64.pyd",
         "path": "easytime/zkeco_dlls/easy_upgrade.cp37-win_amd64.pyd",
-        "sha": "5b378ac30db3e146e5161fbe797d09a515e865af",
+        "sha": "331179fd4e6d793b5c2678851f6722a49be7dcb7",
         "type": "file"
     },
     {
