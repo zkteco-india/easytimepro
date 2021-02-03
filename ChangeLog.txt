@@ -1,8 +1,31 @@
 easy TimePro(Standard Version)
-(Support sqlserver2005/2008 sp1/2008R2/2012/2014/2017/2019,oracle11.2g and above,postgresql,mysql. SQLServer or oracle is recommended when devices>50）
+(Support sqlserver2005/2008 sp1/2008R2/2012/2014/2017/2019,oracle11.2g and above,postgresql,mysql.recommand sqlserver is above 2012
 
-you can use install package or clicking upgrade button(in Platform Service Console Programe) to upgrade old version(only supporting easyTimePro/WDMS 8.2.0 or above) 
-Both upgrade solutions are safe,dont need to backup software,even if upgrade failed,database will not be destroyed.
+9.0.0 Feb 1,2021
+
+1. Support upgrade from 8.2.0,the database is fully compatible.
+2.Support multi-company,this function can be closed by the following method:
+   attsite.ini
+    [SYS]
+    Multi_company=0
+
+   when multi-company is on,employee  or mobile login must use Email ID or moble no.
+   when multi-company is off,employee  or mobile login can use Employee ID or Email ID or moble no.
+
+ If you don't need this feature, it is strongly recommended to turn it off.
+
+3.Payroll module is closed,this function can be opened by the following method:
+   attsite.ini
+    [SYS]
+    Payroll=1
+4.Login ui changed
+5.Add some params for Global rule in attendance module
+6.Fix finger template no sync for less old device
+7.Fix some reports issue
+8.Fix 'The operation you selected is not working properly or the service is not available' issue
+9.Further improvements to performance
+
+
 
 8.5.4 Oct 12,2020
 
