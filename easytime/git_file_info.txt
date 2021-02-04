@@ -30,6 +30,12 @@
         "type": "file"
     },
     {
+        "name": "git_file_info.txt",
+        "path": "easytime/git_file_info.txt",
+        "sha": "5f1e695e733911c67a756b55c719dce373baea0f",
+        "type": "file"
+    },
+    {
         "name": "iclockservice.ini",
         "path": "easytime/iclockservice.ini",
         "sha": "fcd7395e86fe6101eb0ad1a20e7248429547dc28",
