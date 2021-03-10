@@ -1,6 +1,15 @@
 easy TimePro(Standard Version)
 (Support sqlserver2005/2008 sp1/2008R2/2012/2014/2017/2019,oracle11.2g and above,postgresql,mysql.recommand sqlserver is above 2012
 
+9.0.2 Mar 10,2021
+
+Fix offline issue
+
+9.0.1 Mar 4,2021
+
+Fix communication bug(critical,Only affects version 9.0.0)
+
+
 9.0.0 Feb 1,2021
 
 1. Support upgrade from 8.2.0,the database is fully compatible.

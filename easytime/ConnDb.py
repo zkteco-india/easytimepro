@@ -67,6 +67,7 @@ def check_db():
 
 
 def clear_cache():
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     from django.conf import settings
     from django.core.cache import cache
     if 'django_redis' in settings.CACHES['default']['BACKEND']:
@@ -74,7 +75,7 @@ def clear_cache():
         get_redis_connection("default").flushall()
     cache.clear()
     print('Cache cleanup completed')
-
+    
 def upgrade_software():
     p=os.path.split(os.path.realpath(__file__))[0]
 
