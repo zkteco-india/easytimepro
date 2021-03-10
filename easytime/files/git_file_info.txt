@@ -2,7 +2,7 @@
     {
         "name": "ConnDb.py",
         "path": "easytime/ConnDb.py",
-        "sha": "fcccd1495baa9006fb4bb7bca2e547db35283036",
+        "sha": "55e4a716318f235b2a66f374c268f7ed13395b88",
         "type": "file"
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "git_file_info.txt",
         "path": "easytime/git_file_info.txt",
-        "sha": "5f1e695e733911c67a756b55c719dce373baea0f",
+        "sha": "c1c83f7dbe7d9937a4c1f3085d3d54e9b563ed8b",
         "type": "file"
     },
     {
@@ -80,7 +80,7 @@
     {
         "name": "mysite.zip",
         "path": "easytime/mysite.zip",
-        "sha": "ebbb21f0e1a882eebe07622da99fa31a915a01e8",
+        "sha": "1633801a44a73305b467d5632a2e2cd2b7d9b232",
         "type": "file"
     },
     {
