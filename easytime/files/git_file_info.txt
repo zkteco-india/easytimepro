@@ -80,7 +80,7 @@
     {
         "name": "mysite.zip",
         "path": "easytime/mysite.zip",
-        "sha": "1633801a44a73305b467d5632a2e2cd2b7d9b232",
+        "sha": "894c8c23faa415954dafc972ab0b3b22cfc4042f",
         "type": "file"
     },
     {
